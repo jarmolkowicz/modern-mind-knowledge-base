@@ -1,0 +1,45 @@
+---
+status: solid
+area: [erosion]
+sources:
+  - "Oppenheimer (2008)"
+  - "Reber & Schwarz (1999)"
+  - "Nosta (2025)"
+  - "Jarmołkowicz (2025)"
+  - "Tankelevitch et al. (2024)"
+reviewed_by:
+reviewed_date:
+---
+
+# Fluency Bias
+
+## What It Is
+
+The tendency to judge information that is easy to process as more true, valuable, and high-quality than it actually is. When something reads smoothly, we unconsciously assume it's correct.
+
+## Why It Matters
+
+AI produces exceptionally fluent output—grammatically perfect, well-structured, confident-sounding. Our brains read this fluency as quality. But AI fluency doesn't correlate with AI accuracy. AI can write beautiful nonsense.
+
+## Key Insight
+
+Fluency-accuracy dissociation: fluent ≠ correct. AI's polished output lowers your natural skepticism. You feel like you're reading good work, which reduces the energy you invest in verification.
+
+## The Processing Fluency Mechanism
+
+Research identifies "processing fluency" as the specific mechanism: AI outputs are grammatically correct, well-formatted, and confident in tone. This smoothness creates ease of reading that signals truth. Users conflate "sounds good" with "is correct"—even sophisticated users struggle to overcome this bias.
+
+## Extended: The Coherence Trap
+
+Nosta (2025) extends fluency bias into epistemological territory with the [[coherence-trap]]: we accept information as true when it flows smoothly and aligns with existing beliefs. LLMs create a feedback loop—"LLM coherence feels like comprehension, and our brains go along for the ride."
+
+## Related
+
+- [[automation-bias]] - compounds with fluency bias
+- [[cognitive-offloading]] - fluency makes offloading feel safe
+- [[metacognition]] - awareness helps counter fluency bias
+- [[think-first]] - generates your own thinking before exposure to AI fluency
+- [[coherence-trap]] - extension to epistemology
+- [[borrowed-certainty]] - confidence from fluent AI output
+- [[metacognitive-demand]] - the skill needed to overcome fluency bias
+- [[jagged-frontier]] - where fluency bias causes errors
