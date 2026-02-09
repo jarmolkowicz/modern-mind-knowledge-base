@@ -14,27 +14,28 @@ We don't need more hype. We need wisdom.
 
 ## What's Inside
 
-- `concepts/` — Ideas and phenomena (cognitive debt, fluency bias, jagged frontier...)
-- `frameworks/` — Systems and models for human-AI collaboration
-- `practices/` — Actionable guidance (think-first, calibration, strategic alternation...)
-- `sources/` — Primary research with full citations
+- `concepts/` — Name what's happening to our thinking with AI (cognitive debt, fluency bias, jagged frontier...)
+- `frameworks/` — Decision models for when to use AI and when to think independently
+- `practices/` — Ready-to-use exercises and rituals (think-first, calibration, strategic alternation...)
+- `sources/` — 30+ curated papers with key findings you can plug into decks and curricula
 
-## Who It's For
+## What Makes This Different
 
-- **Educators** building AI literacy curricula
-- **Corporate trainers** designing workshops
-- **Researchers** exploring human-AI collaboration
-- **Power users** who want to learn directly
+- **Pro-human, not anti-AI** — The question isn't "use AI or not?" — it's how to use it without eroding judgment and skill.
+- **Evidence-first** — Every concept and practice ties back to primary research or well-documented field patterns. No opinion pieces.
+- **Designed for teaching** — Entries are written so you can drop them into a slide deck, syllabus, or workshop with minimal rework.
+
+## What You Can Do With It
+
+**Run a workshop on AI and critical thinking →** Start with `concepts/cognitive-debt.md` → `concepts/fluency-bias.md` → `practices/think-first.md`. You'll have a 30-minute session grounded in research, not opinion.
+
+**Make the business case for responsible AI use →** `concepts/jagged-frontier.md` has BCG data showing when AI helps and when it hurts. `concepts/novice-vulnerability.md` quantifies the risk for early-career talent.
+
+**Give your team a practical AI decision framework →** `practices/calibration.md` is a ready-to-use tool for deciding when to use AI and when to think independently.
+
+**Ground your writing or research in evidence →** Browse `sources/` for 30+ curated papers from cognitive science, HCI, and behavioral economics — each with key findings and full citations.
 
 Every entry is evidence-grounded and ready to teach from.
-
-## How to Use It
-
-**Building a workshop?** Start with `practices/strategic-alternation.md` and `practices/calibration.md`.
-
-**Worried about over-reliance?** Explore `concepts/cognitive-debt.md` and `practices/think-first.md`.
-
-**Researching this space?** Browse `sources/` for primary literature from cognitive science, HCI, and behavioral economics.
 
 ## Why Open Source
 
