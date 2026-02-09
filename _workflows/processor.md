@@ -50,9 +50,23 @@ For each extracted element:
 #### For NEW items
 Create draft entries in `_workspace/processing/[source-slug]/new/`
 
-Use templates from `_guide/templates/`. Fill all fields.
+Follow the structure in `_guide/templates/` for each entry type. Fill all fields. Set `status: emerging` unless source is highly authoritative.
 
-Set `status: emerging` unless source is highly authoritative.
+**Concept** (template: `_guide/templates/concept.md`):
+- Frontmatter: `status`, `area`, `sources`, `reviewed_by`, `reviewed_date`
+- Sections: `What It Is`, `Why It Matters`, `Key Insight`, `Related`
+
+**Framework** (template: `_guide/templates/framework.md`):
+- Frontmatter: `status`, `area`, `sources`, `reviewed_by`, `reviewed_date`
+- Sections: `Overview`, `Author`, `Core Idea`, `Key Components`, `Strengths`, `Limitations`, `Related`
+
+**Practice** (template: `_guide/templates/practice.md`):
+- Frontmatter: `status`, `area`, `sources`, `reviewed_by`, `reviewed_date`
+- Sections: `What To Do`, `How To Do It` (numbered steps), `Why It Works`, `Related`
+
+**Source** (template: `_guide/templates/source.md`):
+- Frontmatter: `status`, `area`, `type` (paper|book|article|video|talk), `sources`, `reviewed_by`, `reviewed_date`
+- Sections: `Citation`, `Type`, `Key Insight`, `Relevance`, `Supports`
 
 #### For UPDATE items
 Create update drafts in `_workspace/processing/[source-slug]/updates/`

@@ -1,3 +1,4 @@
+<!-- This template is referenced by _workflows/processor.md. Keep them in sync. -->
 ---
 status: solid
 area: []

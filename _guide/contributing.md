@@ -2,11 +2,29 @@
 
 ## How to Contribute
 
+### Manual Contributions
+
+For adding entries directly:
+
 1. **Fork** the repository
 2. **Create** your entry using templates in `_guide/templates/`
 3. **Submit** a pull request
 
 All contributions require human review before merging.
+
+### Automated Workflows
+
+For processing sources into KB entries, use the AI-assisted workflow prompts in `_workflows/`. These are not scripts — they're structured prompts designed for AI agents.
+
+**3-stage pipeline:**
+
+1. **Scout** (`_workflows/scout.md`) — Discover new sources relevant to the KB domain. Outputs go to `_workspace/inbox/`.
+2. **Screener** (`_workflows/screener.md`) — Assess a source for relevance and quality. Recommends include, partial, skip, or defer.
+3. **Processor** (`_workflows/processor.md`) — Extract concepts, frameworks, practices, and source entries from approved sources.
+
+**Guardrail:** All workflow outputs go to `_workspace/` — never directly to KB folders (`concepts/`, `frameworks/`, `practices/`, `sources/`). A human reviews and approves every entry before it moves into the KB.
+
+Each stage hands off to the next after human review. See the individual workflow files for detailed instructions.
 
 ## Templates
 
