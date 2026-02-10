@@ -1,6 +1,6 @@
 # Modern Mind — Knowledge Base for the AI Age
 
-Cognitive science, behavioral research, and field patterns translated into concepts practitioners can trust and educators can teach from. An evidence-grounded knowledge base for preserving human thinking, judgment, and agency while using AI productively.
+Research, practice, and professional insight translated into concepts you can teach from, apply, and verify. An evidence-grounded knowledge base for preserving human thinking, judgment, and agency while using AI productively.
 
 **Not anti-AI. Not blindly pro-AI. Pro-human.**
 
