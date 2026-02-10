@@ -1,6 +1,6 @@
 # Modern Mind — Knowledge Base for the AI Age
 
-Research-backed concepts for preserving human thinking, judgment, and agency while using AI productively.
+Cognitive science, behavioral research, and field patterns translated into concepts practitioners can trust and educators can teach from. An evidence-grounded knowledge base for preserving human thinking, judgment, and agency while using AI productively.
 
 **Not anti-AI. Not blindly pro-AI. Pro-human.**
 
@@ -13,23 +13,22 @@ Research-backed concepts for preserving human thinking, judgment, and agency whi
 
 ## Who This Is For
 
-**Teachers** — Educators, corporate trainers, L&D professionals, and workshop facilitators who build learning experiences about AI and human thinking.
-- Run a 30-min workshop: `concepts/cognitive-debt.md` → `concepts/fluency-bias.md` → `practices/think-first.md` — research-grounded, ready to deliver.
-- Give your team an AI decision framework: `practices/calibration.md` is a ready-to-use tool participants take home.
+**Educators** — Corporate trainers, L&D professionals, workshop facilitators, professors, and content creators. You'll find concepts you can teach from directly, practices your participants can take home, and sources to back every claim.
 
-**Researchers** — Academics, AI ethics professionals, policy advisors, and scientists who need structured evidence to build on.
-- Ground your writing in evidence: browse `sources/` for 30+ curated papers from cognitive science, HCI, and behavioral economics — each with key findings and full citations.
+**Practitioners** — Consultants, strategists, designers, developers, leaders, and anyone navigating AI in their professional work. You'll find named phenomena you recognize but couldn't articulate, and frameworks for deciding when to lean on AI and when to think for yourself.
 
-**Practitioners** — Consultants, strategists, designers, developers, and leaders who use AI daily and want to preserve their thinking, judgment, and expertise.
-- Make the business case for responsible AI use: `concepts/jagged-frontier.md` has BCG data on when AI helps and when it hurts. `concepts/novice-vulnerability.md` quantifies the risk for early-career talent.
+## Getting Started
 
-Every entry is evidence-grounded and ready to use.
+- New to the topic? Start with `concepts/cognitive-debt.md` — it connects to most other entries.
+- Want to teach from it? `practices/` has exercises ready to run. `sources/` has the citations to back them up.
 
 ## Contributing
 
 I can't do this alone. That's the point.
 
-Add sources. Challenge concepts. Translate ideas to your domain. Build on top.
+If you're a researcher, academic, or scientist — your work is what makes this KB credible. Review entries, challenge interpretations, contribute sources. Every entry has a `reviewed_by` field waiting for you.
+
+Everyone else: add sources, translate ideas to your domain, build on top.
 
 See `_guide/contributing.md` for guidelines.
 
