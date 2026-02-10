@@ -4,9 +4,12 @@
 
 **What**: Curated knowledge base for the "human thinking with AI" domain—maintaining cognitive sovereignty while using AI productively.
 
-**Purpose**: Provide educators, trainers, and content creators with trusted, evidence-grounded concepts, frameworks, and practices.
+**Purpose**: Provide trusted, evidence-grounded concepts, frameworks, and practices for anyone teaching, researching, or navigating AI use.
 
-**Audience**: Educators, researchers, and contributors building on this knowledge.
+**Audience — three personas:**
+- **Teacher** — Educators, corporate trainers, L&D professionals, workshop facilitators, and content creators who build learning experiences about AI and human thinking.
+- **Researcher** — Academics, AI ethics professionals, policy advisors, and scientists who need structured evidence to build on.
+- **Practitioner** — Professionals who use AI daily — consultants, strategists, designers, developers, and leaders — who want to preserve their thinking, judgment, and expertise.
 
 ## Repository Structure
 

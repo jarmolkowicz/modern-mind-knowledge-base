@@ -16,7 +16,7 @@ reviewed_date:
 
 ## Why It Matters
 
-[Why educators/practitioners should care. Connection to human thinking with AI.]
+[Why this matters for anyone teaching, researching, or navigating AI use.]
 
 ## Key Insight
 
