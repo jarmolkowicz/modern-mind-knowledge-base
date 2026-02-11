@@ -11,7 +11,7 @@ Research, practice, and professional insight translated into concepts you can te
 - `practices/` — Ready-to-use exercises and rituals (think-first, calibration, strategic alternation...)
 - `sources/` — 30+ curated papers with key findings you can plug into decks and curricula
 
-Entries synthesize and translate published research. Original authors and papers are cited in each entry and in `sources/`.
+Entries synthesize and translate published research. Original authors and papers are cited in each entry and in `sources/`. The curation process is deliberately semi-automated — AI-assisted, human-reviewed. See `_guide/contributing.md` for how and why.
 
 ## Who This Is For
 

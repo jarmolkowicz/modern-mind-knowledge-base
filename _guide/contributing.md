@@ -12,9 +12,11 @@ For adding entries directly:
 
 All contributions require human review before merging.
 
-### Automated Workflows
+### AI-Assisted Workflows
 
-For processing sources into KB entries, use the AI-assisted workflow prompts in `_workflows/`. These are not scripts — they're structured prompts designed for AI agents.
+For processing sources into KB entries, use the workflow prompts in `_workflows/`. These are structured prompts designed for AI agents — not scripts, not fully automated pipelines.
+
+**Why semi-automated?** AI handles discovery and extraction. Humans make every editorial decision — what gets in, how it's framed, what it connects to.
 
 **3-stage pipeline:**
 
@@ -24,7 +26,7 @@ For processing sources into KB entries, use the AI-assisted workflow prompts in 
 
 **Guardrail:** All workflow outputs go to `_workspace/` — never directly to KB folders (`concepts/`, `frameworks/`, `practices/`, `sources/`). A human reviews and approves every entry before it moves into the KB.
 
-Each stage hands off to the next after human review. See the individual workflow files for detailed instructions.
+Each stage hands off to the next after human review. The prompts are open so you can see exactly how content is processed. See the individual workflow files for detailed instructions.
 
 ## Templates
 
