@@ -28,11 +28,9 @@ Entries synthesize and translate published research. Original authors and papers
 
 I can't do this alone. That's the point.
 
-If you're a researcher, academic, or scientist — your work is what makes this KB credible. Review entries, challenge interpretations, contribute sources. Every entry has a `reviewed_by` field waiting for you.
+Review entries, challenge interpretations, contribute new sources, translate ideas to your domain, or build on top. Every entry has a `reviewed_by` field waiting for a name.
 
-Everyone else: add sources, translate ideas to your domain, build on top.
-
-See `_guide/contributing.md` for guidelines.
+The easiest way to contribute is to [open an issue](https://github.com/jarmolkowicz/modern-mind-knowledge-base/issues) — suggest a source, flag an error, or propose a concept. For writing entries directly, see `_guide/contributing.md`.
 
 ## License
 

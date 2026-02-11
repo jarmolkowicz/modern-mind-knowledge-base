@@ -2,9 +2,17 @@
 
 ## How to Contribute
 
-### Manual Contributions
+### Suggest via Issue
 
-For adding entries directly:
+The quickest way to contribute — no git knowledge needed. [Open an issue](https://github.com/jarmolkowicz/modern-mind-knowledge-base/issues) to:
+
+- Suggest a source or paper
+- Flag an error or misinterpretation
+- Propose a new concept or practice
+
+### Add an Entry Directly
+
+To write and submit a KB entry:
 
 1. **Fork** the repository
 2. **Create** your entry using templates in `_guide/templates/`
@@ -52,7 +60,7 @@ reviewed_date:
 ---
 ```
 
-Leave `reviewed_by` and `reviewed_date` empty—reviewers fill these.
+Leave `reviewed_by` and `reviewed_date` empty — whoever reviews the entry fills these.
 
 ## Quality Standards
 
