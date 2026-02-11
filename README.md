@@ -2,7 +2,7 @@
 
 Curated knowledge on AI and human thinking — structured for your AI to use as context, or for you to use directly.
 
-Research, practice, and professional insight translated into concepts you can teach from, apply, and verify.
+Curated research, practice, and professional insight translated into concepts you can trust, teach from, and apply.
 
 **Not anti-AI. Not blindly pro-AI. Pro-human.**
 
