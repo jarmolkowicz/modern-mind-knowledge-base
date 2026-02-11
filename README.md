@@ -31,9 +31,13 @@ The curation process is deliberately semi-automated — AI-assisted, human-revie
 
 ## Contributing
 
-I can't do this alone. That's the point.
+This is an emerging field. No single person or framework has the full picture.                                                                                          
+The KB gets stronger with diverse perspectives — practitioners, educators, and
+researchers who challenge, validate, and build on what's here.
 
-Review entries, challenge interpretations, contribute new sources, translate ideas to your domain, or build on top. Every entry has a `reviewed_by` field waiting for a name.
+Review entries, challenge interpretations, contribute new sources, translate
+ideas to your domain, or build on top. Every entry has a `reviewed_by` field
+waiting for a name.
 
 The easiest way to contribute is to [open an issue](https://github.com/jarmolkowicz/modern-mind-knowledge-base/issues) — suggest a source, flag an error, or propose a concept. For writing entries directly, see `_guide/contributing.md`.
 
