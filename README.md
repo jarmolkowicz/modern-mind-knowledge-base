@@ -1,15 +1,17 @@
 # Modern Mind — Knowledge Base for the AI Age
 
-An evidence-grounded knowledge base for preserving human thinking, judgment, and agency while using AI productively. Research, practice, and professional insight translated into concepts you can teach from, apply, and verify. 
+Curated knowledge on AI and human thinking — structured for your AI to use as context, or for you to use directly.
+
+Research, practice, and professional insight translated into concepts you can teach from, apply, and verify.
 
 **Not anti-AI. Not blindly pro-AI. Pro-human.**
 
 ## What's Inside
 
-- `concepts/` — Name what's happening to our thinking with AI (cognitive debt, fluency bias, jagged frontier...)
+- `concepts/` — Named phenomena: cognitive debt, fluency bias, jagged frontier, and 35 more
 - `frameworks/` — Decision models for when to use AI and when to think independently
-- `practices/` — Ready-to-use exercises and rituals (think-first, calibration, strategic alternation...)
-- `sources/` — 30+ curated papers with key findings you can reference, cite, or teach from
+- `practices/` — Methods for preserving thinking capacity: think-first, calibration, strategic alternation
+- `sources/` — 30+ curated papers with key findings and full citations
 
 Entries synthesize and translate published research. Original authors and papers are cited in each entry and in `sources/`.
 
@@ -23,8 +25,9 @@ The curation process is deliberately semi-automated — AI-assisted, human-revie
 
 ## Getting Started
 
-- New to the topic? Start with `concepts/cognitive-debt.md` — it connects to most other entries.
-- Want to teach from it? `practices/` has exercises ready to run. `sources/` has the citations to back them up.
+- **Use it with your AI** — Download the [knowledge pack](https://github.com/jarmolkowicz/modern-mind-knowledge-base/releases/latest), a single file with the full KB. Upload it to Claude Projects, NotebookLM, a Custom GPT, or any AI assistant that lets you upload files. Then prompt it to design, write, audit, or teach.
+- **Browse it yourself** — Start with `concepts/cognitive-debt.md` — it connects to most other entries. `practices/` has actionable methods. `sources/` has the citations.
+
 
 ## Contributing
 

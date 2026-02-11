@@ -31,11 +31,21 @@ Modern Mind Knowledge Base/
 │   ├── screener.md
 │   └── processor.md
 │
-└── _workspace/        # Working area (not curated content)
-    ├── inbox/
-    ├── processing/
-    └── archive/
+├── _workspace/        # Working area (not curated content)
+│   ├── inbox/
+│   ├── processing/
+│   └── archive/
+│
+├── scripts/
+│   └── build-bundle.sh    # Concatenates KB into single file
+│
+└── .github/workflows/
+    └── build-kb-bundle.yml # Auto-generates knowledge pack on push
 ```
+
+## Knowledge Pack
+
+A single concatenated markdown file containing the full KB, auto-generated via GitHub Actions on every push to `main` that changes content files. Published as a GitHub Release at `releases/latest`. Users download this file and upload it to Claude Projects, NotebookLM, Custom GPTs, or any AI assistant to use the KB as context.
 
 ## Metadata Schema
 
