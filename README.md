@@ -11,6 +11,8 @@ Research, practice, and professional insight translated into concepts you can te
 - `practices/` — Ready-to-use exercises and rituals (think-first, calibration, strategic alternation...)
 - `sources/` — 30+ curated papers with key findings you can plug into decks and curricula
 
+Entries synthesize and translate published research. Original authors and papers are cited in each entry and in `sources/`.
+
 ## Who This Is For
 
 **Educators** — Corporate trainers, L&D professionals, workshop facilitators, professors, and content creators. You'll find concepts you can teach from directly, practices your participants can take home, and sources to back every claim.
@@ -41,6 +43,6 @@ MIT — Use freely with attribution.
 - [Website](https://modrnmind.com)
 - [Newsletter](https://read.modrnmind.com)
 
----
+## Contributors
 
-Created by [Paweł Jarmołkowicz](https://www.linkedin.com/in/jarmolkowicz)
+- [Paweł Jarmołkowicz](https://www.linkedin.com/in/jarmolkowicz) — creator, curator
