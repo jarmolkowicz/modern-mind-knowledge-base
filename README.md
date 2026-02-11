@@ -1,6 +1,6 @@
 # Modern Mind — Knowledge Base for the AI Age
 
-Research, practice, and professional insight translated into concepts you can teach from, apply, and verify. An evidence-grounded knowledge base for preserving human thinking, judgment, and agency while using AI productively.
+An evidence-grounded knowledge base for preserving human thinking, judgment, and agency while using AI productively. Research, practice, and professional insight translated into concepts you can teach from, apply, and verify. 
 
 **Not anti-AI. Not blindly pro-AI. Pro-human.**
 
@@ -9,9 +9,11 @@ Research, practice, and professional insight translated into concepts you can te
 - `concepts/` — Name what's happening to our thinking with AI (cognitive debt, fluency bias, jagged frontier...)
 - `frameworks/` — Decision models for when to use AI and when to think independently
 - `practices/` — Ready-to-use exercises and rituals (think-first, calibration, strategic alternation...)
-- `sources/` — 30+ curated papers with key findings you can plug into decks and curricula
+- `sources/` — 30+ curated papers with key findings you can reference, cite, or teach from
 
-Entries synthesize and translate published research. Original authors and papers are cited in each entry and in `sources/`. The curation process is deliberately semi-automated — AI-assisted, human-reviewed. See `_guide/contributing.md` for how and why.
+Entries synthesize and translate published research. Original authors and papers are cited in each entry and in `sources/`.
+
+The curation process is deliberately semi-automated — AI-assisted, human-reviewed. See `_guide/contributing.md` for how and why.
 
 ## Who This Is For
 
