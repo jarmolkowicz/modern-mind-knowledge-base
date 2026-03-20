@@ -9,6 +9,7 @@ sources:
   - "Leonardi & Leavell (2026)"
   - "Reich & Teeny (2026)"
   - "Keshky (2026)"
+  - "Han, Z., Song, G., Zhang, Y., & Li, B. (2025)"
 reviewed_by:
 reviewed_date:
 ---
@@ -53,6 +54,8 @@ The mechanism:
 
 People don't notice skill degradation until they're forced to perform without AI assistance.
 
+Han et al. (2025) provide longitudinal evidence (N=442, 3-wave) for a mechanism that widens the confidence-competence gap: AI usage boosts self-efficacy, which increases willingness to take risks. Critically, for employees with low learning goal orientation, the self-efficacy boost does not translate into genuine risk-taking through the mediated path (CI includes zero) — suggesting their confidence is externally dependent on AI rather than rooted in internalized capability. This maps to the gap mechanism: AI makes people feel more capable and more willing to act on that feeling, even when the capability is borrowed.
+
 ## Metacognitive Illusion
 
 Traditional metacognitive tools assume direct engagement with the task. When AI does the work, you think you understand because the output is correct—but you didn't build the understanding that produced it.
@@ -79,3 +82,4 @@ Keshky's "resistance to feedback" dimension adds a self-reinforcing mechanism: i
 - [[artificial-confidence]] - social comparison mechanism contributing to the gap
 - [[professional-identity-threat]] - Keshky provides direct empirical link from confidence gap to identity distortion
 - [[borrowed-certainty]] - illusory self-efficacy dimension maps to borrowed certainty mechanism
+- [[agency]] - Han et al. (2025) show self-efficacy as mediator between AI use and behavioral risk-taking; inflated efficacy without learning orientation produces agency illusion

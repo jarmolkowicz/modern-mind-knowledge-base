@@ -5,6 +5,7 @@ sources:
   - "Lodge & Loble (2026)"
   - "Bastani et al. (2025)"
   - "Yan et al. (2025)"
+  - "Singh Yadav (2026)"
 reviewed_by:
 reviewed_date:
 ---
@@ -25,6 +26,8 @@ The paradox resolves an apparent contradiction in AI-and-learning research. Stud
 
 Lodge & Loble (2026) argue this is not a measurement error but a structural feature of how AI interacts with learning: AI bypasses the intrinsic cognitive load (desirable difficulties) that builds durable knowledge, while producing outputs that signal mastery.
 
+Singh Yadav (2026) provides a historical grounding through the concept of the "augmentation illusion." Every wave of cognitive technology — writing systems, calculators, GPS, internet search — created the same pattern: performance capability decoupled from underlying competence. AI is the latest and most comprehensive manifestation. The book maps the illusion through four mechanisms: cognitive offloading (reduced internal investment), fluency confusion (ease of performance mistaken for understanding), attribution errors (success credited to self rather than tool), and reduced metacognitive awareness (less confrontation with one's own knowledge gaps). The historical pattern suggests the performance paradox is not unique to AI but a universal principle of cognitive augmentation — AI simply operates across more cognitive domains simultaneously than any previous technology.
+
 ## The Vicious Cycle
 
 Lodge & Loble (2026) describe how the paradox self-reinforces:
@@ -43,4 +46,5 @@ Lodge & Loble (2026) describe how the paradox self-reinforces:
 - [[fluency-bias]] - what makes the paradox invisible
 - [[metacognitive-laziness]] - what the paradox enables
 - [[capacity-erosion]] - the long-term consequence
-- [[novice-vulnerability]] - who is most affected
+- [[novice-vulnerability]] - who is most affected; Singh Yadav's augmentation illusion is most pronounced at early Dreyfus stages
+- [[desirable-difficulty]] - Singh Yadav traces a historical arc showing each cognitive technology bypassed the productive struggle that built competence

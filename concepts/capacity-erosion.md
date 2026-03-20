@@ -9,6 +9,8 @@ sources:
   - "Lodge & Loble (2026)"
   - "Shaw & Nave (2026)"
   - "Shen & Tamkin (2026)"
+  - "Huffstadt (2026)"
+  - "Singh Yadav (2026)"
 reviewed_by:
 reviewed_date:
 ---
@@ -27,10 +29,11 @@ Erosion is gradual and invisible. AI output quality stays high, so you don't not
 
 ## Key Insight
 
-Three illusions hide erosion:
+Four illusions hide erosion:
 - **Fluency illusion**: AI's polished output feels like your understanding
 - **Competence illusion**: Borrowed capability feels like yours
 - **Productivity illusion**: More output feels like growth
+- **Satisfaction illusion** (KB synthesis from Huffstadt 2026): AI makes work feel easier and more efficient, creating positive affect that masks the simultaneous erosion of motivational engagement
 
 You cannot trust how you feel about your AI use. Focus on observable behaviors: Can you work without AI? Do you catch errors? Do you transform AI output significantly?
 
@@ -45,6 +48,10 @@ Lodge & Loble (2026) frame the trajectory from erosion to recovery as "cognitive
 The paper grounds erosion in Cognitive Load Theory: what erodes is not just skill in the abstract but the schemas in long-term memory that constitute expertise. When intrinsic cognitive load is bypassed rather than processed, schemas are never constructed. The result is a learner (or professional) who can produce expert-looking output but has not built the knowledge structures that make expertise real.
 
 Erosion isn't only about capability — it includes meaning and identity. Nikolova et al. (2024) found that automation reduces workers' sense of meaning and self-determination even when job security is maintained. While Nikolova et al. studied industrial automation and robotics, the mechanism — reduced sense of meaning when work is automated — likely extends to AI-assisted knowledge work. This adds what we term the **meaning illusion** (KB synthesis, not from source) — work continues to get done, so the loss of personal significance goes unnoticed.
+
+Huffstadt (2026) identifies a motivational dimension of erosion: AI usage reduces both perceived social presence (beta=-0.42) and cognitive effort (beta=-0.38), which in turn reduce motivation — the strongest predictor of performance (beta=0.58). Crucially, the erosion operates through full mediation: AI affects performance only through these psychological mechanisms, not through direct functional disruption. Technological self-efficacy moderates vulnerability: low-efficacy users show a strong negative AI-to-motivation path (beta=-0.33), while high-efficacy users are buffered (beta=-0.12, non-significant).
+
+Singh Yadav (2026) maps erosion onto the Dreyfus expertise model, identifying where AI creates a "Competence Ceiling." AI amplifies performance most at novice-to-competent stages (Dreyfus 1-3) but creates a ceiling at the competent-to-proficient transition (stage 3-4). The transition to proficiency requires intuitive understanding from extensive varied experience and deep cognitive engagement — exactly what AI bypasses. The result: practitioners plateau at competent-level performance with AI but cannot advance independently. The book also proposes the AI Competency Erosion Index (ACEI) — a ratio-based measurement framework (research program, not yet validated) for tracking erosion.
 
 Shen & Tamkin (2026) demonstrate that erosion is not only a long-term disuse phenomenon — it operates at the point of skill formation itself. In their RCT, developers who used AI while learning a new library failed to acquire the skills in the first place (17% lower quiz scores, d = 0.738). This is erosion by prevention rather than erosion by atrophy: AI doesn't just degrade existing skills, it can prevent new ones from forming. The control group's advantage came specifically from encountering and independently resolving errors — the productive struggle that AI bypasses.
 
@@ -67,4 +74,7 @@ Research cited by Nosta (2025): When gastroenterologists stopped using AI for po
 - [[metacognitive-laziness]] - the mechanism that accelerates erosion
 - [[cognitive-surrender]] - specific mechanism of erosion; uncritical AI adoption that bypasses deliberation
 - [[tri-system-theory]] - framework modeling how AI displaces internal reasoning
-- [[desirable-difficulty]] - Shen & Tamkin show error encounters during learning are the specific desirable difficulty AI removes
+- [[desirable-difficulty]] - Shen & Tamkin show error encounters during learning are the specific desirable difficulty AI removes; Singh Yadav traces this through five waves of cognitive technology
+- [[fluency-bias]] - Huffstadt (2026) shows reduced cognitive effort creates satisfaction that masks motivational decay
+- [[performance-paradox]] - AI improves efficiency metrics while undermining the motivation that sustains long-term performance (Huffstadt 2026)
+- [[novice-vulnerability]] - Singh Yadav maps erosion vulnerability to Dreyfus stages; amplification is greatest for novices

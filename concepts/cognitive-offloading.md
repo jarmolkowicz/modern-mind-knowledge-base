@@ -13,6 +13,7 @@ sources:
   - "Gilbert et al. (2023)"
   - "Hu, Luo & Fleming (2019)"
   - "Guingrich, Mehta & Bhatt (2026)"
+  - "Huffstadt (2026)"
 reviewed_by:
 reviewed_date:
 ---
@@ -59,6 +60,8 @@ Hu et al. (2019) provide experimental and computational evidence for the metamem
 
 Shen & Tamkin (2026) identified six AI interaction patterns in a coding RCT that map a spectrum of offloading behavior. Three patterns involving full cognitive offloading (AI Delegation, Progressive AI Reliance, Iterative AI Debugging) averaged quiz scores below 40%. Three patterns preserving cognitive engagement (Generation-Then-Comprehension, Hybrid Code-Explanation, Conceptual Inquiry) averaged above 65%. The distinguishing factor was not whether AI was used, but whether the user maintained cognitive engagement — asking for explanations, seeking understanding, resolving errors independently. This provides the first experimental typology of offloading behaviors in a coding context with measured learning outcomes.
 
+Huffstadt (2026) provides SEM evidence (N=297) for a motivational cost of cognitive offloading beyond skill decay. Reduced cognitive effort (beta=-0.38 from AI usage) positively predicts short-term satisfaction but negatively predicts motivation — the core driver of performance (beta=0.58). This adds a new dimension to the offloading cost model: every time you offload cognitive effort, you don't just reduce skill practice — you also reduce the psychological investment that sustains motivation and engagement. The effect operates through full mediation, meaning AI's impact on performance flows entirely through these psychological pathways. The paper also finds that reduced social presence (beta=-0.42) compounds the effect — AI reduces both the cognitive and relational engagement that sustain work motivation.
+
 Lodge & Loble (2026) add a critical nuance: offloading extends beyond the cognitive level to the metacognitive level. Learners offload not just the thinking but the monitoring of their thinking — planning, self-assessment, and revision. This "double offloading" compounds erosion because the very self-regulation that would catch detrimental offloading is itself being offloaded.
 
 ## Related
@@ -77,3 +80,4 @@ Lodge & Loble (2026) add a critical nuance: offloading extends beyond the cognit
 - [[metacognition]] - metacognitive confidence drives offloading decisions (Gilbert et al. 2023)
 - [[confidence-competence-gap]] - metamemory distortions drive maladaptive offloading (Hu et al. 2019)
 - [[belief-offloading]] - the deepest form of offloading: exporting conviction, not just cognition (Guingrich et al. 2026)
+- [[capacity-erosion]] - Huffstadt (2026) shows offloading costs include motivational erosion, not just skill decay

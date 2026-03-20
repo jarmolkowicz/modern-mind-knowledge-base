@@ -7,6 +7,7 @@ sources:
   - "Jarmołkowicz (2025)"
   - "Gonzalez et al. (2026)"
   - "Shaw & Nave (2026)"
+  - "Han, Z., Song, G., Zhang, Y., & Li, B. (2025)"
 reviewed_by:
 reviewed_date:
 ---
@@ -41,6 +42,8 @@ The complementarity framework identifies a structural mechanism: AI systems can 
 
 Teams perform best when humans actively interrogate AI recommendations rather than passively accepting them (Vaccaro et al., 2024). Designing interfaces that surface uncertainty and rationales — rather than presenting clean recommendations — helps counter automation bias at the interaction level.
 
+Han et al. (2025) add a trust-dynamics dimension: AI usage boosts self-efficacy (B=0.524, p<.001), which in turn increases willingness to take risks. For employees with low learning goal orientation, this self-efficacy boost does not translate into genuine capability — the mediated path is non-significant — suggesting they trust the machine's contribution while misattributing it to themselves. This creates conditions for automation bias: inflated self-trust, born from AI-assisted success, reduces the perceived need for verification.
+
 ## Related
 
 - [[fluency-bias]] - amplifies automation bias
@@ -51,3 +54,4 @@ Teams perform best when humans actively interrogate AI recommendations rather th
 - [[complementarity-framework]] - addresses automation bias through attention orchestration and interrogation protocols
 - [[cognitive-surrender]] - broader phenomenon that automation bias sits within
 - [[tri-system-theory]] - framework that contextualizes automation bias as one dynamic among several
+- [[ai-self-efficacy-erosion]] - Han et al. (2025) show AI-as-tool inflates self-efficacy; the trust dynamics differ from AI-as-evaluator contexts

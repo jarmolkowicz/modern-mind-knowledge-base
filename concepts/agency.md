@@ -5,6 +5,7 @@ sources:
   - "Jarmołkowicz (2025)"
   - "Alessandro et al. (2025)"
   - "Guingrich, Mehta & Bhatt (2026)"
+  - "Han, Z., Song, G., Zhang, Y., & Li, B. (2025)"
 reviewed_by:
 reviewed_date:
 ---
@@ -36,6 +37,8 @@ Alessandro et al. (2025) provide experimental evidence that AI interaction can e
 
 Guingrich et al. (2026) identify a threat to agency that goes beyond task delegation: [[belief-offloading]]. When AI shapes belief formation itself — not just providing information but constitutively contributing to what a person believes — it threatens belief autonomy, a dimension of agency that the current entry does not address. Critically, the user can retain the *feeling* of autonomy while the causal origin of their beliefs shifts to AI. This means the "conscious choice about how to engage" that the entry identifies as the core of agency may itself be illusory if the beliefs informing that choice were offloaded.
 
+Han et al. (2025) reveal a double-edged mechanism for agency. AI usage enhances self-efficacy and willingness to take risks — ostensibly agentic outcomes. But learning goal orientation is the critical moderator: employees who approach AI as a growth tool (high learning orientation) show genuine self-efficacy that translates into risk-taking. Those with low learning orientation gain self-efficacy that is externally attributed and does not produce genuine behavioral change. This maps to the distinction between conscious curation (agency-preserving) and unconscious curation (agency-eroding): the same AI use either strengthens or hollows out agency depending on the user's orientation toward learning.
+
 **Professional value formula:**
 ```
 Domain Expertise + Agency Capacity + Accountability = Professional Value
@@ -49,3 +52,4 @@ Domain Expertise + Agency Capacity + Accountability = Professional Value
 - [[capacity-erosion]] - what happens when agency degrades
 - [[ai-self-efficacy-erosion]] - AI-driven evaluation erodes the psychological basis of agency
 - [[belief-offloading]] - threat to belief autonomy, a dimension of agency beyond task delegation (Guingrich et al. 2026)
+- [[confidence-competence-gap]] - Han et al. (2025) show AI-boosted self-efficacy without learning orientation produces confidence without genuine capability
