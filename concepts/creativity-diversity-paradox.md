@@ -3,6 +3,7 @@ status: solid
 area: [risk]
 sources:
   - "Science Advances (2024)"
+  - "Runco & Jaeger (2012)"
 reviewed_by:
 reviewed_date:
 ---
@@ -12,6 +13,8 @@ reviewed_date:
 ## What It Is
 
 AI makes individual creative outputs better (higher novelty and usefulness) while making the aggregate body of work less diverse. Each piece improves; the collection homogenizes.
+
+The standard definition of creativity (Runco & Jaeger, 2012) requires both originality AND usefulness. AI can boost both dimensions individually, but the paradox shows the collective cost: as everyone draws on the same AI, individual originality converges toward a shared mean.
 
 ## Why It Matters
 
@@ -33,6 +36,8 @@ AI provides:
 - Common structural patterns that organize thinking
 - Language that elevates "weaker" outputs
 
+AI generates sophisticated novelty through pattern remixing, but the "usefulness" judgment — knowing whether something actually works in context — depends primarily on human experience and domain knowledge. AI can assess some forms of usefulness (logical consistency, format compliance), but contextual and domain-specific usefulness remains a human strength. This is why AI-assisted creativity can score high on metrics while the diversity of approaches narrows.
+
 AI removes:
 - Unusual approaches that don't fit training patterns
 - Novel connections from diverse personal experiences
@@ -48,4 +53,4 @@ AI removes:
 
 - [[leveling-effect]] - same mechanism, individual framing
 - [[cognitive-debt]] - explains why thinking converges
-- [[originality]] - what's at stake
+- originality - what's at stake

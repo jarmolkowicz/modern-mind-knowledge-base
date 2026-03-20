@@ -5,6 +5,7 @@ sources:
   - "Bjork & Bjork (2011)"
   - "Nosta (2026)"
   - "Jarmołkowicz (2025)"
+  - "Duncan (2026)"
 reviewed_by:
 reviewed_date:
 ---
@@ -18,6 +19,8 @@ Learning conditions that feel harder in the moment but produce better long-term 
 ## Why It Matters
 
 AI removes difficulty. That's its value and its risk. When you use AI to bypass the hard parts consistently, you optimize for current output but sacrifice future capacity.
+
+Duncan (2026) identifies the specific workplace tasks where desirable difficulty disappears: junior consultants doing research, PMs writing specs from scratch, marketers creating first drafts. These weren't busywork — they were the low-stakes repetitions where professionals faced consequences and built judgment. AI generates these outputs instantly, optimizing for current productivity while starving future capability development.
 
 ## Key Insight
 
@@ -38,3 +41,5 @@ When friction disappears, speed replaces insight and confidence arrives without 
 - [[think-first]] - maintains beneficial difficulty
 - [[cognitive-friction]] - phenomenological framing
 - [[cognitive-grit]] - mental endurance for difficulty
+- [[judgment]] - the capability desirable difficulty builds
+- [[judgment-development-paradox]] - what happens when difficulty disappears at scale

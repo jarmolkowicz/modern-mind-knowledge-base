@@ -3,6 +3,7 @@ status: solid
 area: [risk]
 sources:
   - "Scispace Literature Synthesis (2025)"
+  - "Nikolova et al. (2024)"
 reviewed_by:
 reviewed_date:
 ---
@@ -46,9 +47,12 @@ Three psychological needs affected:
 - **Competence**: AI may make personal skill feel irrelevant
 - **Relatedness**: AI-mediated work may feel disconnected
 
+Nikolova et al. (2024) provide empirical evidence for this: automation reduces workers' sense of meaning and self-determination, even when job security is maintained. The effect persists across industries and roles. While Nikolova et al. studied industrial automation and robotics, the mechanism is consistent with reports from AI-assisted knowledge workers — suggesting the identity threat isn't just a feeling but a measurable psychological outcome of having meaningful work absorbed by automation.
+
 ## Related
 
 - [[cognitive-debt]] - capability dimension of this
 - [[strategic-alternation]] - practice that restores identity
 - [[think-first]] - preserves authorship
 - [[affective-trust-deficit]] - relational dimension
+- [[capacity-erosion]] - identity erosion is a dimension of capacity erosion

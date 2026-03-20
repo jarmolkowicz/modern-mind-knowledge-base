@@ -4,6 +4,7 @@ area: [preservation]
 sources:
   - "Nosta (2025)"
   - "Jarmołkowicz (2025)"
+  - "Runco & Jaeger (2012)"
 reviewed_by:
 reviewed_date:
 ---
@@ -17,6 +18,8 @@ Consciously cycling between unassisted work (for capacity building) and AI-assis
 ## Why It Matters
 
 Not about limiting AI use—it's about maintaining the judgment and capacity to use AI well. Without alternation, judgment degrades, you can't evaluate quality, and professional value diminishes.
+
+Creativity requires both originality and usefulness (Runco & Jaeger, 2012). AI can generate novel combinations, but contextual appropriateness — knowing what works and why — comes from human judgment built through practice. Unassisted work periods preserve this judgment capacity.
 
 ## Key Insight
 

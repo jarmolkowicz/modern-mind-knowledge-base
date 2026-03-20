@@ -3,6 +3,7 @@ status: solid
 area: [risk, preservation]
 sources:
   - "Dell'Acqua et al. (2023)"
+  - "Mollick (2026)"
 reviewed_by:
 reviewed_date:
 ---
@@ -34,6 +35,8 @@ Consultants frequently:
 
 Knowing the frontier is itself a professional skill.
 
+Mollick (2026) adds a practitioner heuristic for navigating the frontier: he frames it as essentially a management skill and introduces an "equation of agentic work" — comparing human baseline time against AI's probability of success and process time — to decide when delegation makes sense. This is a practitioner framework, not peer-reviewed evidence, but it offers useful vocabulary. The key variable is evaluation capability: experts can assess AI output quality quickly, making delegation efficient. Novices can't, making the same delegation costly or harmful.
+
 ## Two Collaboration Patterns
 
 **Centaurs**: Clear division of labor between human and AI tasks
@@ -46,3 +49,4 @@ Both can work—but both require accurate frontier awareness.
 - [[calibration]] - matching engagement to context
 - [[metacognitive-demand]] - why this is hard
 - [[cognitive-debt]] - cost of guessing wrong
+- [[execution-commoditization]] - what happens when AI handles most of what's inside the frontier
