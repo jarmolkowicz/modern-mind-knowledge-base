@@ -66,3 +66,5 @@ AI is "lossless" — untouched by time, mortality, or consequence. Human meaning
 - [[strategic-alternation]] - "sequence matters" chapter; "move deliberately between assisted and unassisted modes"
 - [[fluency-bias]] - vapid brilliance and smoothness trap as extended mechanisms
 - [[professional-identity-threat]] - "dissolution of the thinking self" / "when doing is stolen"
+- [[amathia-drift]] - extended treatment of ignorance wearing the mask of understanding
+- [[minimum-cognitive-integrity]] - philosophical threshold below which agency is compromised

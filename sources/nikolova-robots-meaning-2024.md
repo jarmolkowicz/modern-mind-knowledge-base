@@ -32,3 +32,4 @@ Addresses identity erosion distinct from capability erosion. Work can feel hollo
 
 - [[capacity-erosion]] - identity dimension
 - [[strategic-alternation]] - maintaining meaningful engagement
+- [[professional-identity-threat]] - automation reduces meaning and self-determination

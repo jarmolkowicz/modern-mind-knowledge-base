@@ -31,3 +31,4 @@ Reinforces that human cognition is fundamentally different from AI pattern match
 ## Supports
 
 - [[metacognition]] - understanding your own embodied thinking
+- [[embodied-cognition]] - conceptual metaphor as embodied reasoning

@@ -33,3 +33,4 @@ Provides theoretical foundation for why [[strategic-alternation]] works and why 
 - [[desirable-difficulty]] - foundational evidence
 - [[strategic-alternation]] - design rationale
 - [[think-first]] - why solo work matters
+- [[cognitive-friction]] - friction as productive force in learning

@@ -35,3 +35,5 @@ Articulates the capacity-erosion thesis from an organizational/leadership angle.
 - [[desirable-difficulty]] - AI eliminates the productive struggle
 - [[zone-of-proximal-development]] - graduated responsibility mirrors scaffolding
 - [[professional-identity-threat]] - junior staff learn to defer, not decide
+- [[judgment]] - five-type taxonomy and AI's paradoxical effect on judgment development
+- [[judgment-development-paradox]] - AI increases need for judgment while eroding the experiences that produce it

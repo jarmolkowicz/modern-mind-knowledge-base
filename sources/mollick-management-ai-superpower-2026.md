@@ -34,3 +34,4 @@ Reinforces the KB's thesis that human judgment and domain expertise are irreplac
 - [[judgment]] - management judgment as the scarce resource
 - [[novice-vulnerability]] - students succeeded because of domain knowledge, not AI skills
 - [[calibration]] - delegation decisions require continuous calibration
+- [[execution-commoditization]] - "knowing what to ask for" as the scarce resource, not execution

@@ -31,3 +31,4 @@ AI excels at pattern matching (surface similarity) but struggles with deep struc
 ## Supports
 
 - [[metacognition]] - recognizing reasoning type
+- [[analogical-reasoning]] - foundational theory of structure mapping in analogy

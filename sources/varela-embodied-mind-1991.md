@@ -32,3 +32,4 @@ Establishes why AI cannot replace human insight that emerges from embodied exper
 
 - [[metacognition]] - embodied self-awareness
 - [[strategic-alternation]] - preserving embodied knowledge
+- [[embodied-cognition]] - foundational theoretical source

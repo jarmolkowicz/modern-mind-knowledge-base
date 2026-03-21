@@ -31,3 +31,4 @@ Clarifies what AI can and cannot do. AI can produce novel combinations (pattern 
 ## Supports
 
 - [[strategic-alternation]] - preserving creative capacity
+- [[creativity-diversity-paradox]] - standard definition clarifies what AI homogenization threatens

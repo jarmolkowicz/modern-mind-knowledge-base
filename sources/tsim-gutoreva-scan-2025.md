@@ -36,3 +36,5 @@ Provides operational specificity for task-level decisions that Modern Mind's str
 - [[cognitive-offloading]] - provides zone-based analysis of offloading
 - [[metacognition]] - operationalizes with three components
 - [[calibration]] - provides SCAN-based calibration method
+- [[sycophancy]] - SCAN zones help identify when sycophancy risk is highest
+- [[upskilling-deskilling-paradox]] - zone model explains when AI upskills vs deskills

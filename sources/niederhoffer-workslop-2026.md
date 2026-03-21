@@ -68,3 +68,4 @@ Provides the first large-scale survey data (N=1,150) on the organizational cost 
 - [[agency]] - "Pilots" vs "Passengers" framing; agency as protective factor
 - [[calibration]] - workslop as calibration failure at organizational level
 - [[workslop-prevention]] - practice built on the three organizational levers
+- [[workslop]] - primary source defining the concept and providing survey data

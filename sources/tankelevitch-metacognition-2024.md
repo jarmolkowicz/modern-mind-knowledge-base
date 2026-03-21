@@ -42,3 +42,4 @@ Provides theoretical framework for why [[calibration]] is essential and why usin
 - [[metacognitive-demand]] - primary source
 - [[calibration]] - validates importance
 - [[fluency-bias]] - explains mechanism
+- [[confidence-competence-gap]] - broken feedback loops prevent calibration of competence
