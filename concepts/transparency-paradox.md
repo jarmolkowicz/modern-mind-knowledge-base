@@ -13,7 +13,7 @@ reviewed_date:
 
 ## What It Is
 
-The disconnect between stated preferences for AI disclosure and actual behavior: people overwhelmingly say they want AI transparency (93.8%), yet consistently punish those who disclose (16-20% trust reduction).
+The disconnect between stated preferences for AI disclosure and actual behavior: people say they want AI transparency, yet consistently punish those who disclose. Reimann & Schilke (2025) demonstrate trust reductions across 13 experiments; Raj et al. (2026) show a persistent ~6.2% evaluation penalty (d=0.24) across 16 experiments.
 
 ## Why It Matters
 
@@ -28,13 +28,9 @@ The paradox operates at multiple levels:
 
 ## Evidence
 
-Across 13 experiments with 5,000+ participants:
-- Student trust in professors dropped 16% when AI grading was disclosed
-- Investor confidence in firms fell 18% following AI advertising disclosures
-- Client trust in designers declined 20% after AI disclosure
-- Effect persisted regardless of respondent's own AI familiarity
+Reimann & Schilke (2025) tested disclosure across 13 experiments (5,000+ participants) spanning professors, advertisers, and designers. Trust consistently dropped when AI use was disclosed, regardless of context or mitigation attempts. The effect persisted regardless of respondent's own AI familiarity.
 
-Raj et al. (2026) extend the paradox to creative writing with the largest study to date: 16 experiments (N = 27,491). People cannot reliably distinguish AI from human writing when unlabeled — but penalize it ~6.2% when labeled. Multiple mitigation strategies drawn from prior research failed, suggesting the paradox is not merely a framing problem but deeply rooted in authenticity perceptions.
+Raj et al. (2026) extend the paradox to creative writing with the largest study to date: 16 experiments (N = 27,491). People cannot reliably distinguish AI from human writing when unlabeled — but penalize it ~6.2% when labeled (d=0.24). Multiple mitigation strategies drawn from prior research failed, suggesting the paradox is not merely a framing problem but deeply rooted in authenticity perceptions.
 
 ## Vicious Cycle
 

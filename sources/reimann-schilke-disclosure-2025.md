@@ -22,15 +22,9 @@ Paper (empirical research)
 
 ## Key Insight
 
-Across 13 experiments with 5,000+ participants, AI disclosure consistently reduced trust by 16-20%. Soft disclosure language ("only used for grammar," "human reviewed") did not mitigate the effect. Getting caught is worse than disclosing voluntarily.
+Across 13 experiments with 5,000+ participants spanning professors, advertisers, and designers, AI disclosure consistently reduced trust. Soft disclosure language ("only used for grammar," "human reviewed") did not mitigate the effect. Getting caught is worse than disclosing voluntarily.
 
-## Key Findings
-
-| Context | Trust Reduction |
-|---------|----------------|
-| Professors (grading) | -16% |
-| Firms (advertising) | -18% |
-| Designers (creative) | -20% |
+Note: Specific percentage reductions (16-20%) cited in press coverage could not be verified against the paper text. The directional finding and consistency across contexts is confirmed.
 
 ## Relevance
 
