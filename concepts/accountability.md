@@ -41,3 +41,4 @@ Different depths enable different levels of genuine accountability.
 - [[agency]] - accountability is an expression of agency
 - [[three-core-capacities]] - capacity enables meaningful accountability
 - [[calibration]] - choosing engagement level affects accountability depth
+- [[anti-intelligence]] - anti-intelligence removes the conditions for accountability

@@ -55,3 +55,4 @@ Additional test from Nosta (2026): "At its best, AI acts as a lens. But a lens i
 - [[belief-offloading]] - deeper form: not just borrowed confidence but offloaded conviction (Guingrich et al. 2026)
 - [[amathia-drift]] - borrowed certainty as symptom of drift
 - [[minimum-cognitive-integrity]] - excessive borrowing can cross MCI threshold
+- [[sycophancy]] - sycophantic AI provides literally borrowed certainty

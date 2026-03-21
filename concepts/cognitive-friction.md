@@ -45,3 +45,4 @@ Cognitive friction is the experiential side of [[desirable-difficulty]]. Desirab
 - [[capacity-erosion]] - what happens when friction is removed
 - [[strategic-alternation]] - how to preserve friction intentionally
 - [[think-first]] - practice that maintains friction
+- [[cognitive-grit]] - endurance capacity for sustained friction

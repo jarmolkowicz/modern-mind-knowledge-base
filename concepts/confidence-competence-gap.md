@@ -83,3 +83,4 @@ Keshky's "resistance to feedback" dimension adds a self-reinforcing mechanism: i
 - [[professional-identity-threat]] - Keshky provides direct empirical link from confidence gap to identity distortion
 - [[borrowed-certainty]] - illusory self-efficacy dimension maps to borrowed certainty mechanism
 - [[agency]] - Han et al. (2025) show self-efficacy as mediator between AI use and behavioral risk-taking; inflated efficacy without learning orientation produces agency illusion
+- [[sycophancy]] - sycophantic AI widens the gap by validating misconceptions and inflating confidence

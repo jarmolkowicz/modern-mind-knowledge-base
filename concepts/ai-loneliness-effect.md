@@ -24,3 +24,4 @@ Individual vulnerability matters: people with stronger attachment tendencies bec
 ## Related
 - [[capacity-erosion]] - social skills and relationship maintenance as capacities that may erode through AI substitution
 - [[cognitive-offloading]] - social/emotional offloading to AI as a parallel to cognitive offloading
+- [[green-yellow-red-monitoring]] - practice that monitors social signals detecting this effect

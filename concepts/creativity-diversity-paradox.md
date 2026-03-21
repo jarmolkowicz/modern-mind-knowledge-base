@@ -60,3 +60,4 @@ AI removes:
 - [[cognitive-debt]] - explains why thinking converges
 - originality - what's at stake
 - [[agency]] - Anderson et al. find ChatGPT users felt less responsible for ideas they generated
+- [[analogical-reasoning]] - AI narrows analogical sources, reducing creative diversity

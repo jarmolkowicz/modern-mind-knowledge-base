@@ -62,3 +62,4 @@ He notes these categories are fluid and will shift as AI improves — Just Me Ta
 - [[cognitive-debt]] - cost of guessing wrong
 - [[execution-commoditization]] - what happens when AI handles most of what's inside the frontier
 - [[confidence-competence-gap]] - "falling asleep at the wheel" as related mechanism
+- [[human-ai-complementarity]] - complementarity requires navigating the jagged frontier
