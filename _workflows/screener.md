@@ -31,12 +31,14 @@ Rate relevance: HIGH / MEDIUM / LOW
 Rate quality: HIGH / MEDIUM / LOW
 
 ### 4. Identify Key Elements
-List what could be extracted:
-- Concepts (new ideas, terms)
-- Frameworks (coherent systems)
-- Practices (actionable guidance)
-- Claims (testable statements)
-- Microlearning candidates (teachable moments)
+List what could be extracted, by entry type:
+- **Concepts**: New ideas, terms, named phenomena, mechanisms
+- **Frameworks**: Coherent systems from a specific author, with components
+- **Practices**: Actionable guidance — specific protocols, checklists, behavioral rules with steps
+- **Claims**: Testable statements with evidence (feed into concepts)
+- **Microlearning candidates**: Teachable moments (feed into practices or concepts)
+
+For each type, note whether candidates exist or the source doesn't contain that type.
 
 ### 5. Recommend
 - **INCLUDE**: High relevance, adds value

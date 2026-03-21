@@ -129,8 +129,9 @@ Check:
 - **Template compliance**: Does the entry follow the correct template structure from `_guide/templates/`?
 - **Consistency**: Does the entry's framing align with how related concepts are framed in existing entries?
 - **Update merges**: For updates — does the proposed addition fit naturally into the existing entry's structure and tone?
+- **Extraction balance**: Does SUMMARY.md include an Extraction Ledger with all four entry types assessed (concepts, frameworks, practices, source)? If any type shows NONE, is the rationale documented?
 
-**Common flags**: Broken wikilinks, missing frontmatter fields, naming violations, duplicate concept under different name, update that contradicts existing entry's framing.
+**Common flags**: Broken wikilinks, missing frontmatter fields, naming violations, duplicate concept under different name, update that contradicts existing entry's framing, missing Extraction Ledger, entry type skipped without rationale.
 
 ---
 

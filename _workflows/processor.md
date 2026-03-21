@@ -31,6 +31,17 @@ Thoroughly read/analyze the source. Identify:
 - Actionable practices
 - Key claims with evidence
 
+**Entry type distinctions:**
+- **Concept** — Names a phenomenon, mechanism, or idea. Explains *what* something is. Descriptive.
+- **Framework** — A coherent system of related concepts with an author. Explains how things relate. Structural.
+- **Practice** — Tells someone what to *do*. Actionable (specific steps), teachable (can be explained), repeatable (applies across situations). Prescriptive.
+- **Source** — Every processed source gets a source entry. This is automatic.
+
+Boundary cases:
+- A concept that implies an action (e.g., "cognitive offloading") stays a concept. A specific protocol for when/how to offload (e.g., "cognitive portion control — stop AI before the polished end") is a practice.
+- A principle that justifies practices (e.g., "partial automation principle") is a concept. The actionable method it supports (e.g., "strategic alternation") is a practice.
+- If a source introduces both a concept AND a practice derived from it, create both with cross-links.
+
 ### 2. Match Against Existing KB
 
 For each extracted element:
@@ -102,16 +113,30 @@ Create `_workspace/processing/[source-slug]/SUMMARY.md`:
 ```markdown
 # Processing Summary: [Source Title]
 
+## Extraction Ledger
+
+For each entry type, list what was extracted or explain why nothing was found.
+
+### Concepts
+- [NEW: name / UPDATE: name / NONE — rationale]
+
+### Frameworks
+- [NEW: name / UPDATE: name / NONE — rationale]
+
+### Practices
+- [NEW: name / UPDATE: name / NONE — rationale]
+
+### Source Entry
+- [filename]
+
 ## New Entries Created
-- concepts/[name].md
-- practices/[name].md
+- [type]/[name].md
 
 ## Updates to Existing
-- concepts/[existing].md - [what's added]
-- frameworks/[existing].md - [what's added]
+- [type]/[existing].md — [what's added]
 
 ## Skipped (duplicates)
-- [concept] - already covered by [[existing]]
+- [element] — already covered by [[existing]]
 
 ## Ready for Review
 - [ ] New entries
